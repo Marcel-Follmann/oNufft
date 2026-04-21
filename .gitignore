@@ -1,0 +1,53 @@
+# =========================
+# MATLAB
+# =========================
+
+# Editor backups and autosaves
+*~ 
+*.asv
+.~*
+
+# M‑file backups (Emacs/Vim etc.)
+*.m~
+
+# GUIDE figure files
+*.fig
+
+# MEX and build artifacts
+mex*
+*.mex*
+*.dll
+*.exe
+*.so
+*.dylib
+*.o
+*.obj
+*.a
+
+# MAT files (cache)
+*.mat
+
+# Simulink autosaves and builds
+*.slx~
+*.mdl~
+slprj/
+*_ert_rtw/
+*.sldd
+
+# Codegen directories
+codegen/
+
+# Published docs / graphics
+*.html
+*.pdf
+*.emf
+*.png
+*.jpg
+*.svg
+
+# Logs and reports
+*.log
+*.txt
+
+# Temporary folders
+*_auto/
